@@ -1,8 +1,8 @@
-package Ejercicios23_09_25;
+package Ejercicios1_23_09_25;
 
 public class Ejercicio_8 {
     public static void main(String[] args) {
-        int N = 76;
+        int N = 45;
 
         N = N + 77;
 

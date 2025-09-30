@@ -1,4 +1,4 @@
-package Ejercicios23_09_25;
+package Ejercicios1_23_09_25;
 class MathUtils
 {
     public static void main (String[] args)

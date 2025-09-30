@@ -9,6 +9,7 @@ public class Cadenas {
 
         String nombre = scanner.nextLine();
 
+        scanner.close();
         System.out.println("Hola " + nombre);
     }
 }

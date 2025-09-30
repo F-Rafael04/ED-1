@@ -11,5 +11,7 @@ public class Ejercicio_7 {
         double Velocidad = Integer.parseInt(scanner.nextLine());
 
         System.out.println("La velocidad en m/s es: " + Velocidad /3.6);
+
+        scanner.close();
     }
 }

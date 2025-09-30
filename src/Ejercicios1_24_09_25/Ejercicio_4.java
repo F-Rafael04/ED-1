@@ -8,7 +8,7 @@ public class Ejercicio_4 {
 
         System.out.println(" escribe un numero");
 
-        int Numero = Integer.parseInt(scanner.nextLine());
+        int Numero = scanner.nextInt();
 
         System.out.println("Este es el numero que has escrito: " + Numero);
 
